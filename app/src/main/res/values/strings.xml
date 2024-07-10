@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersistenciaDados</string>
+    <string name="titulo">Persistência</string>
+    <string name="sptitulo">Shared Preferences</string>
+    <string name="bdtitulo">SQLite</string>
+    <string name="fltitulo">Arquivo</string>
+</resources>
